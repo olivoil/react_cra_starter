@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "home": {
+      "title": "Bienvenido a react con react-i18next",
+      "description": {
+        "part1": "Para empezar, edite <code>src/App.js</code> y guarda para refrescar.",
+        "part2": "Cambia de idioma con los botones siguientes.",
+        "part3": "Cambia de tema con los botones siguientes."
+      }
+    }
+  }
+}

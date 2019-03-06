@@ -1,0 +1,11 @@
+type Theme {
+  id: String!
+}
+
+type Query {
+  theme: Theme
+}
+
+type Mutation {
+  setTheme(id: String!): String!
+}

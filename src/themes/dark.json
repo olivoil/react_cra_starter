@@ -1,0 +1,11 @@
+{
+  "id": "dark",
+  "mui": {
+    "palette": {
+      "type": "dark"
+    },
+    "typography": {
+      "useNextVariants": true
+    }
+  }
+}

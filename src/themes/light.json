@@ -1,0 +1,11 @@
+{
+  "id": "light",
+  "mui": {
+    "palette": {
+      "type": "light"
+    },
+    "typography": {
+      "useNextVariants": true
+    }
+  }
+}

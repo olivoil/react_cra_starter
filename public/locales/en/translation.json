@@ -1,0 +1,13 @@
+{
+  "loading...": "loading...",
+  "pages": {
+    "home": {
+      "title": "Welcome to react using react-i18next",
+      "description": {
+        "part1": "To get started, edit <code>src/App.js</code> and save to reload.",
+        "part2": "Switch language between english and german using buttons below.",
+        "part3": "Switch theme between light and dark using buttons below."
+      }
+    }
+  }
+}
